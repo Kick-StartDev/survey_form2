@@ -1,0 +1,18 @@
+body{
+   background-color: rgb(162, 140, 180);
+   background-image: url(images.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   margin: 20px;
+
+}
+h1{
+   text-align: center;
+}
+.labels{
+margin-left: 10px;
+
+}
+.checkbox{
+
+}
